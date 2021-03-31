@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/D-DependencyInversion/D-FIXED/D-FIXED.iml" filepath="$PROJECT_DIR$/D-DependencyInversion/D-FIXED/D-FIXED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D-DependencyInversion/D-VIOLATED/D-VIOLATED.iml" filepath="$PROJECT_DIR$/D-DependencyInversion/D-VIOLATED/D-VIOLATED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/I- Interface Segregation/I-FIXED/I-FIXED.iml" filepath="$PROJECT_DIR$/I- Interface Segregation/I-FIXED/I-FIXED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/I- Interface Segregation/I-VIOLATED/I-VIOLATED.iml" filepath="$PROJECT_DIR$/I- Interface Segregation/I-VIOLATED/I-VIOLATED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L-Liskov Subtitution/L-FIXED/L-FIXED.iml" filepath="$PROJECT_DIR$/L-Liskov Subtitution/L-FIXED/L-FIXED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L-Liskov Subtitution/L-VIOLATED/L-VIOLATED.iml" filepath="$PROJECT_DIR$/L-Liskov Subtitution/L-VIOLATED/L-VIOLATED.iml" />
       <module fileurl="file://$PROJECT_DIR$/O-OpenClosed/O-FIXED/O-FIXED.iml" filepath="$PROJECT_DIR$/O-OpenClosed/O-FIXED/O-FIXED.iml" />
       <module fileurl="file://$PROJECT_DIR$/O-OpenClosed/O-VIOLATED/O-VIOLATED.iml" filepath="$PROJECT_DIR$/O-OpenClosed/O-VIOLATED/O-VIOLATED.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PYCO-INTERNSHIP-SOLID-ASSIGNMENT.iml" filepath="$PROJECT_DIR$/.idea/PYCO-INTERNSHIP-SOLID-ASSIGNMENT.iml" />
