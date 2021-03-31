@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2cec3b0-3a5d-4d6d-a3b1-61a78bb66c1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qVLcDMisJx6zg6gHeyzLza6ZeP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../O-FIXED" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PYCO TRAINING\PYCO-INTERNSHIP-SOLID-ASSIGNMENT\O-OpenClosed" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.O-FIXED">
+    <configuration name="ClientView-S FIXED" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.ClientView" />
+      <module name="S-FIXED" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S-SingleResponsibility/S-FIXED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientView-S VIOLATED" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.ClientView" />
+      <module name="S-VIOLATED" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S-SingleResponsibility/S-VIOLATED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="O-FIXED" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.ClientModule" />
+      <module name="O-FIXED" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O-OpenClosed/O-FIXED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="O-VIOLATED" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="O-VIOLATED" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O-OpenClosed/O-VIOLATED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientView-S FIXED" />
+      <item itemvalue="Application.ClientView-S VIOLATED" />
+      <item itemvalue="Application.O-VIOLATED" />
+      <item itemvalue="Application.O-FIXED" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2cec3b0-3a5d-4d6d-a3b1-61a78bb66c1a" name="Default Changelist" comment="" />
+      <created>1617159887989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617159887989</updated>
+      <workItem from="1617159889289" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="0" width="1092" height="768" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617165323415">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="274" y="0" width="1092" height="768" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1617165323415" />
+    <state x="549" y="177" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617165318563">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="549" y="177" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1304.768@62.0.1304.768" timestamp="1617165318563" />
+    <state x="600" y="142" key="FileChooserDialogImpl" timestamp="1617165310497">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="600" y="142" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1617165310497" />
+    <state x="379" y="88" key="NewModule_or_Project.wizard" timestamp="1617165224614">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="379" y="88" key="NewModule_or_Project.wizard/62.0.1304.768@62.0.1304.768" timestamp="1617165224614" />
+    <state x="194" y="0" key="SettingsEditor" timestamp="1617165226806">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="194" y="0" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1617165226806" />
+    <state x="97" y="4" key="new project wizard" timestamp="1617165209431">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="97" y="4" key="new project wizard/62.0.1304.768@62.0.1304.768" timestamp="1617165209431" />
+  </component>
+</project>

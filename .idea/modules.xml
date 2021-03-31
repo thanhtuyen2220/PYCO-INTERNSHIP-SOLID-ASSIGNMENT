@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/O-OpenClosed/O-FIXED/O-FIXED.iml" filepath="$PROJECT_DIR$/O-OpenClosed/O-FIXED/O-FIXED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O-OpenClosed/O-VIOLATED/O-VIOLATED.iml" filepath="$PROJECT_DIR$/O-OpenClosed/O-VIOLATED/O-VIOLATED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PYCO-INTERNSHIP-SOLID-ASSIGNMENT.iml" filepath="$PROJECT_DIR$/.idea/PYCO-INTERNSHIP-SOLID-ASSIGNMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S-SingleResponsibility/S-FIXED/S-FIXED.iml" filepath="$PROJECT_DIR$/S-SingleResponsibility/S-FIXED/S-FIXED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S-SingleResponsibility/S-VIOLATED/S-VIOLATED.iml" filepath="$PROJECT_DIR$/S-SingleResponsibility/S-VIOLATED/S-VIOLATED.iml" />
+    </modules>
+  </component>
+</project>
